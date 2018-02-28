@@ -1,0 +1,10 @@
+{
+  "extends": "airbnb",
+  "rules": {
+    "import/newline-after-import": 0,
+    "global-require": 0,
+    "react/prefer-stateless-function": [0, { "ignorePureComponents": <ignorePureComponents> }],
+    "import/prefer-default-export": 0,
+    "react/prop-types": "off"
+  }
+}
